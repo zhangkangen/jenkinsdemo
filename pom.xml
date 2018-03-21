@@ -58,6 +58,7 @@
 	</dependencies>
 
 	<build>
+		<finalName>jenkins-demo</finalName>
 		<defaultGoal>compile</defaultGoal>
 		<plugins>
 			<plugin>
